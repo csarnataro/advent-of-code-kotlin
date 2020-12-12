@@ -1,6 +1,6 @@
 # Advent of code
 
-Solutions in Kotlin for www.adventofcode.com puzzles, divided by year.
+Solutions in Kotlin for www.adventofcode.com puzzles, by year.
 
 Year 2015 is in progress.
 
